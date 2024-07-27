@@ -1,2 +1,2 @@
 # personal-resume
-it is about personal resume buulding using html css
+It is about my portfolio website building using html css
